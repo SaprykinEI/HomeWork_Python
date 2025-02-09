@@ -1,0 +1,26 @@
+[
+  {
+    "type_shoes": "Мужская",
+    "assortment": "кроссовки",
+    "color": "Белый",
+    "price": 12000,
+    "brand": "Nike",
+    "size": [
+      43,
+      44,
+      45
+    ]
+  },
+  {
+    "type_shoes": "Женская",
+    "assortment": "туфли",
+    "color": "черный",
+    "price": 20000,
+    "brand": "DG",
+    "size": [
+      36,
+      37,
+      38
+    ]
+  }
+]
