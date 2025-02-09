@@ -123,7 +123,6 @@ from collections import Counter
 products = {
     'apple': {'name': 'Яблоко зеленое', 'cost': 37, 'kg': 24},
     'pinapple': {'name': 'Ананас', 'cost': 50, 'kg': 20}
-    ''
     }
 
 
