@@ -79,11 +79,11 @@ class LinkedList:
         return "Данные списка выведены"
 
     def get(self, data):
-        current_node = self.head
-        while current_node:
-            if current_node.data == data:
-                return True, current_node
-            current_node = current_node.next_node
+        current = self.head
+        while current:
+            if current.data == data:
+                return True, current.data
+            current = current.next_node
         return False, None
 
     def change_data(self, node_data, change_data):
